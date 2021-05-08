@@ -7,15 +7,15 @@ import org.bukkit.event.Listener;
 public class ${NAME} implements Listener {
   
    /*
-		Create your own event listeners! For example:
+	Create your own event listeners! For example:
 	
-		@EventHandler
-		public void onPlayerJoin(final PlayerJoinEvent event) {
-			Common.tell(player, "&2Welcome to our server!"
+	@EventHandler
+	public void onPlayerJoin(final PlayerJoinEvent event) {
+		Common.tell(player, "&2Welcome to our server!"
 			
-		}
+	}
 	
-	 */
+   */
   
 
   
